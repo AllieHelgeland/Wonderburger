@@ -1,0 +1,1 @@
+A better workflow would have allowed for the 2 pull requests to be merged seamlessly, rather than requiring a manual resolution to the merge conflicts. This could have been done by having all collaborators communicate their ideas on what ingredients should be added and their position in the ingredients.md file.
